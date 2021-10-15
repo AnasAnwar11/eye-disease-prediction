@@ -1,6 +1,6 @@
 # eye-disease-prediction
 
-Classification of Glaucoma, Diabetic Retinopathy and Normal eyes by Support Vector Machine, Random Forest and Logistic Regression. Before training the models, the images went through some basic image enhancements and preprocessing.
+The classification of Glaucoma, Diabetic Retinopathy and Normal eyes by Support Vector Machine, Random Forest and Logistic Regression is carried out in this project. Before training the models, the images went through some basic image enhancements and preprocessing.
 
 ### `Dataset:`
 Three different datasets were used:
