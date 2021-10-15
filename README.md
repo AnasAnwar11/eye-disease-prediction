@@ -32,7 +32,7 @@ Experiment A involved the 'Normal' class having the 'non-Glaucoma' and 'non-Diab
 
 So, Experiment B was conducted having only healthy images from a different dataset.
 
-### `Comparative Results:`
+### `Comperative Results:`
 ![Effect of sobel](./screenshots/result.png)
 
 ### `Resources:`
